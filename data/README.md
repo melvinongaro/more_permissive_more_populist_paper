@@ -15,6 +15,6 @@ election-level variables.
 
 **Dataset citation:**
 
-Comparative Study of Electoral Systems. (2023). CSES Module 5 full release 
-[Dataset and documentation], 25 July 2023 version. 
+Comparative Study of Electoral Systems. (2023). *CSES Module 5 full release 
+[Dataset and documentation], 25 July 2023 version*. 
 https://doi.org/10.7804/cses.module5.2023-07-25
