@@ -1,0 +1,7 @@
+"specification","b","se","ci","p","n"
+"H1, main specification (study median magnitude)",-0.052,0.053,"[-0.156, 0.052]",0.33,53230
+"H1, respondent's own district magnitude",0.013,0.026,"[-0.037, 0.064]",0.602,53116
+"H1, populist threshold at 6",-0.056,0.051,"[-0.157, 0.044]",0.269,57412
+"H1, populist threshold at 8",-0.051,0.054,"[-0.156, 0.054]",0.344,45552
+"H2, main specification (multilevel logit)",0.182,0.154,"[-0.119, 0.483]",0.236,4998
+"H2, conditional logit stratified by respondent",0.084,0.147,"[-0.205, 0.373]",0.571,4998
